@@ -1,2 +1,2 @@
 # Covid-Trackers
-Simple covid tracker build with Java
+Simple covid tracker website build with Java Swings and AWT.
